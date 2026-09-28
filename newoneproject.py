@@ -1,10 +1,5 @@
-print("OOOOOOOOOOOOOOOOOOOOOOOOOOO")
-print("OOOOOOOOOOOOOOOOOOOOOOOOOOO")
-print()
+# inventory management system a project for python essential course by sushil kumar rai
 print("     INVENTORY MANAGEMENT SYSTEM")
-print()
-print("OOOOOOOOOOOOOOOOOOOOOOOOOOO")
-print("OOOOOOOOOOOOOOOOOOOOOOOOOOO")
 print()
 
 E = {}
